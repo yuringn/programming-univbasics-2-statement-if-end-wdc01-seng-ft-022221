@@ -1,7 +1,7 @@
 # Write your solution here
 time = Time.now
 a = time.to_i
-if time.even?
+if a.even?
   puts "Even!"
 else
   puts "Odd!"
