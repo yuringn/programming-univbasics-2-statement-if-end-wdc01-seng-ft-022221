@@ -1,5 +1,5 @@
 # Write your solution here
-time=time.now
+time=Time.now
 if time.even?
   puts "Even!"
 else
